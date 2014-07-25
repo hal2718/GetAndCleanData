@@ -15,6 +15,8 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 In order to run the script you must first download and unzip the above file.  This produces a two tier directory structure
 containing a discussion of theory, varaible labels, and measurement data.  These are described below in Section 2 below.  
 *(IMPORTANT) Running the script will require that the local directory pointer be set to the local working directory*
+Once the working directory is properly set execute the run_analysis.R script. It requires no additional inputs and
+will run to produce two files, the cleandata1.txt and cleandata2.txt which are the required output for this project. 
 
 # *Section I Introduction*  
 
